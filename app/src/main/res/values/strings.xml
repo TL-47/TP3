@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TP3</string>
+    <string name="btn">Search</string>
+    <string name="name">Enter Name</string>
+</resources>
